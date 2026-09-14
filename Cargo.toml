@@ -58,7 +58,7 @@ docopt = "1.1.0"
 imagesize = "0.15"
 insta = { version = "1", features = ["json"] }
 mime_guess = "2.0.0"
-rstest = "0.26"
+rstest = "0.27"
 sqlx = { version = "0.9", default-features = false, features = ["sqlite"] }
 tokio = { version = "1", features = ["macros", "net", "rt"], default-features = false }
 tokio-test = "0.4"
